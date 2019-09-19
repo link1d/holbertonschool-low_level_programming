@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - puts
+ * main - puts command
  *
  * Return: Always 0 (Success)
  */
