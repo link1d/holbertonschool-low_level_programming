@@ -3,7 +3,7 @@
 /**
  * main - puts
  *
- * Return: Always 0 (Succes)
+ * Return: Always 0 (Success)
  */
 int main (void)
 {
