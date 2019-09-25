@@ -3,6 +3,7 @@
 /**
  * main - Alpha bet
  *
+ * Return: void
  */
 void print_alphabet(void)
 {
